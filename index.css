@@ -1,0 +1,9 @@
+.head{
+    text-align: center;
+    text-decoration: underline;
+}
+.head P{
+    text-align: right;
+    font-weight: bold;
+    text-decoration: underline;
+}
